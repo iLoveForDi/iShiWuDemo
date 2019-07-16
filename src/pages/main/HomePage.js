@@ -157,7 +157,7 @@ class HomePage extends Component {
                     //         NavigationActions.navigate({ routeName: 'Details' })
                     //     ]
                     // }))
-                }} title='jump to DetailPage'></Button>
+                }} title='jump to native page'></Button>
             </ScrollView>
 
         )
